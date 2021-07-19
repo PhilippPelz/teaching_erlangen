@@ -1,0 +1,6 @@
+skimage==0.18
+ipympl
+numpy
+matplotlib
+ipywidgets
+scipy
