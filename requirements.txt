@@ -1,4 +1,4 @@
-skimage==0.18
+skimage
 ipympl
 numpy
 matplotlib
