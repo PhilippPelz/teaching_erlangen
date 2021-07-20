@@ -1,6 +1,6 @@
 scikit-image
 ipympl
 numpy
-matplotlib
+matplotlib==3.2.2
 ipywidgets
 scipy
